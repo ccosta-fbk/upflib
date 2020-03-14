@@ -1,0 +1,6 @@
+add_subdirectory(upfrawsocketslib)
+add_subdirectory(upfnetworklib)
+add_subdirectory(upfdumperlib)
+add_subdirectory(upfasn1lib)
+add_subdirectory(upfs1aplib)
+add_subdirectory(upfrouterlib)
